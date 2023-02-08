@@ -34,3 +34,15 @@ ____
 ### Опишите класс, представляющий треугольник. Треугольник описывается тремя сторонами. Предоставьте методы создания объектов, расчета площади, периметра.
 > Поместите решенную задачу в открытый репозиторий Git.
 ____
+># Task 4. Decimal counter (Checking the task by a mentor)
+
+## Solve the task:
+### Describe a class implementing a decimal counter that can increase or decrease its value by one in a given range. Provide initialization of the counter with default values and arbitrary values. The counter has methods for increasing and decreasing the state, and a method for getting its current state. Write code that demonstrates all the features of the class.
+> Place the solved task in an open Git repository.
+____
+># Задача 4. Десятичных соотрядок (проверка задачи наставником)
+
+## Решите задачу:
+### Опишите класс, реализующий десятичный счетчик, который может увеличить или уменьшить его значение на единицу в данном диапазоне. Обеспечьте инициализацию счетчика значениями по умолчанию и произвольными значениями. Счетчик имеет методы увеличения и уменьшения состояния, а также метод получения его текущего состояния. Напишите код, демонстрирующий все функции класса.
+> Поместите решенную задачу в открытый репозиторий Git.
+___
