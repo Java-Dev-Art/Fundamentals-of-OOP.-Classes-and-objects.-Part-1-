@@ -9,3 +9,15 @@
 >## Решите задачу:
 ### Создайте класс Test1 с двумя переменными. Добавьте метод отображения и методы изменения этих переменных. Добавьте метод, который находит сумму значений этих переменных, и метод, который находит наибольшее значение этих двух переменных.
 >Поместите решенную задачу в открытый репозиторий Git.
+
+># Task 2. Set- and get- methods (Checking the task by a mentor)
+
+>## Solve the task:
+### Create a Test2 class with two variables. Add a constructor with input parameters. Add a constructor that initializes the default class members. Add set- and get- methods for the instance fields of the class.
+> Place the solved task in an open Git repository.
+
+># Задача 2. Методы Set- и get- (проверка задачи наставником)
+
+>## Решите задачу:
+### Создайте класс Test2 с двумя переменными. Добавьте конструктор с входными параметрами. Добавьте конструктор, который инициализирует членов класса по умолчанию. Добавьте методы set- и get- для полей экземпляра класса.
+> Поместите решенную задачу в открытый репозиторий Git.
