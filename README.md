@@ -46,3 +46,15 @@ ____
 ### Опишите класс, реализующий десятичный счетчик, который может увеличить или уменьшить его значение на единицу в данном диапазоне. Обеспечьте инициализацию счетчика значениями по умолчанию и произвольными значениями. Счетчик имеет методы увеличения и уменьшения состояния, а также метод получения его текущего состояния. Напишите код, демонстрирующий все функции класса.
 > Поместите решенную задачу в открытый репозиторий Git.
 ___
+># Task 5. Time representation (Checking the task by a mentor)
+
+## Solve the task:
+### Create a class description to represent the time. Provide for the possibility of setting the time and changing its individual fields (hour, minute, second) with checking the validity of the entered values. In case of invalid field values, the field is set to 0. Create methods for changing the time by a specified number of hours, minutes and seconds.
+>Place the solved task in an open Git repository.
+___
+># Задача 5. Представление времени (проверка задачи наставником)
+
+## Решите задачу:
+### Создайте описание класса, чтобы представить время. Предусмотреть возможность установки времени и изменения его отдельных полей (час, минута, секунда) с проверкой достоверности введенных значений. В случае недопустимых значений полей поле устанавливается в 0. Создайте методы изменения времени на указанное количество часов, минут и секунд.
+> Поместите решенную задачу в открытый репозиторий Git.
+___
